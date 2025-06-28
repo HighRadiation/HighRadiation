@@ -59,8 +59,15 @@ Kaynak: [cursor.directory](https://cursor.directory)
 
 AI kullanımında düşünme modelleri ciddi fayda sağlar:
 
-- **Step-by-step** – Adım adım ilerleme
-- **Tree of Thought** – Dallanarak düşünme
-- **Chain of Reasoning** – Gerekçelendirme zinciri
+- **Step-by-step** – Adım adım ilerleme  
+- **Tree of Thought** – Dallanarak düşünme  
+- **Chain of Reasoning** – Gerekçelendirme zinciri  
 
 Bu modeller, özellikle karmaşık görevlerde AI'nın yönünü bulmasına yardımcı olur.
+
+---
+
+### 🗓️ Günlük Notlar
+
+- **📅 29 Haziran 2025:**  
+  *Cloud 4* iyi bir model, kullanılabilir.
