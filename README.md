@@ -5,10 +5,10 @@ Bu README dosyası AI kullanımı hakkında notlar içerir.
 - Cursor nasıl kullanılmalı?
 
 # Cursor Nasıl Kullanılmalı?
-  Cursor gibi AI Tool'larını iyi kullanmak istiyorsak;
-    - AI'yı çok iyi yönlendirmemiz gerekiyor.
-    - Ne yaptığını anlamamız gerekiyor.
-    - Anlaşılır kural setleri çizmemiz gerekiyor.
-  Bunun için projeye başlarken AI' vermemiz gereken bazı kurallar var. (source: cursor.directory)
-    - /Generate Cursor Rules according to following rules \
-    bu alanda özelleştirme yapmak gerekli.
+  Cursor gibi AI Tool'larını iyi kullanmak istiyorsak; \n
+    - AI'yı çok iyi yönlendirmemiz gerekiyor. \n
+    - Ne yaptığını anlamamız gerekiyor. \n
+    - Anlaşılır kural setleri çizmemiz gerekiyor. \n
+  Bunun için projeye başlarken AI' vermemiz gereken bazı kurallar var. (source: cursor.directory) \n
+    - /Generate Cursor Rules according to following rules \n
+    bu alanda özelleştirme yapmak gerekli. \n
