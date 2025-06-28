@@ -1,14 +1,22 @@
-# Kişisel Notlar
-Bu README dosyası AI kullanımı hakkında notlar içerir.
+# 📒 Kişisel Notlar
 
-## Başlıklar:
-- Cursor nasıl kullanılmalı?
+Bu README dosyası, AI araçlarının kullanımıyla ilgili kişisel notlarımı içerir.
 
-# Cursor Nasıl Kullanılmalı?
-  Cursor gibi AI Tool'larını iyi kullanmak istiyorsak; \n
-    - AI'yı çok iyi yönlendirmemiz gerekiyor. \n
-    - Ne yaptığını anlamamız gerekiyor. \n
-    - Anlaşılır kural setleri çizmemiz gerekiyor. \n
-  Bunun için projeye başlarken AI' vermemiz gereken bazı kurallar var. (source: cursor.directory) \n
-    - /Generate Cursor Rules according to following rules \n
-    bu alanda özelleştirme yapmak gerekli. \n
+## 🗂️ Başlıklar
+
+- [Cursor Nasıl Kullanılmalı?](#cursor-nasıl-kullanılmalı)
+
+---
+
+## 🧠 Cursor Nasıl Kullanılmalı?
+
+Cursor gibi AI tool'larını verimli kullanmak için bazı temel prensiplere dikkat etmek gerekir:
+
+- AI'yı çok iyi yönlendirmemiz gerekiyor.  
+- Ne yaptığını anlamamız gerekiyor.  
+- Anlaşılır kural setleri çizmemiz gerekiyor.  
+
+💡 **Not:** Projeye başlarken AI'ya vermemiz gereken bazı kurallar vardır. (Kaynak: [cursor.directory](https://cursor.directory))
+
+```text
+/Generate Cursor Rules according to following rules
