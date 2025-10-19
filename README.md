@@ -8,7 +8,7 @@ Bu README dosyası, AI araçlarının kullanımıyla ilgili kişisel notlarımı
 
 ---
 
-## 🧠 Cursor Nasıl Kullanılmalı?
+##  Cursor Nasıl Kullanılmalı?
 
 Cursor gibi AI tool'larını verimli kullanmak için bazı temel prensiplere dikkat etmek gerekir:
 
@@ -16,7 +16,7 @@ Cursor gibi AI tool'larını verimli kullanmak için bazı temel prensiplere dik
 - Ne yaptığını anlamamız gerekiyor.  
 - Anlaşılır kural setleri çizmemiz gerekiyor.  
 
-💡 **Not:** Projeye başlarken AI'ya vermemiz gereken bazı kurallar vardır.  
+ **Not:** Projeye başlarken AI'ya vermemiz gereken bazı kurallar vardır.  
 Kaynak: [cursor.directory](https://cursor.directory)
 
 ---
@@ -46,7 +46,7 @@ Kaynak: [cursor.directory](https://cursor.directory)
 
 ---
 
-### 🎯 Odak Alanları
+###  Odak Alanları
 
 - Styling  
 - Performance  
@@ -55,7 +55,7 @@ Kaynak: [cursor.directory](https://cursor.directory)
 
 ---
 
-### 🧠 Thinking Modelleri
+###  Thinking Modelleri
 
 AI kullanımında düşünme modelleri ciddi fayda sağlar:
 
@@ -67,7 +67,3 @@ Bu modeller, özellikle karmaşık görevlerde AI'nın yönünü bulmasına yard
 
 ---
 
-### 🗓️ Günlük Notlar
-
-- **📅 29 Haziran 2025:**  
-  *Cloud 4* iyi bir model, kullanılabilir.
