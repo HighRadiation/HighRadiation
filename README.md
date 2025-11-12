@@ -1,8 +1,8 @@
-# 📒 Kişisel Notlar
+# Kişisel Notlar
 
 Bu README dosyası, AI araçlarının kullanımıyla ilgili kişisel notlarımı içerir.
 
-## 🗂️ Başlıklar
+## Başlıklar
 
 - [Cursor Nasıl Kullanılmalı?](#cursor-nasıl-kullanılmalı)
 
@@ -21,7 +21,7 @@ Kaynak: [cursor.directory](https://cursor.directory)
 
 ---
 
-### ⚙️ Cursor Kullanım Notları
+### Cursor Kullanım Notları
 
 - **Kurallar ayrı ayrı yazılmalı:**  
   Cursor gibi AI destekli kod editörleri token bazlı çalışır.  
