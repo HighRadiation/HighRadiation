@@ -1,1 +1,1 @@
-# Kişisel Notlara
+# Kişisel Notlar
