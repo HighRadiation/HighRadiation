@@ -1,5 +1,4 @@
 ## My Bash File
----
 ### Compiler & Execution
 - `compile <file.c>` : Compiles with -Wall -Wextra -Werror.
 - `crun`             : Compiles main.c and runs ./a.out immediately.
