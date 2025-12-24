@@ -1,7 +1,5 @@
-# =======================================================
 # 1. BASHRC CONFIGURATION (Copy & Paste to ~/.bashrc)
-# =======================================================
-
+---
 # === THEME: Clean Curved Bash Prompt ===
 last_dir() {
   basename "$PWD"
@@ -74,10 +72,8 @@ export HISTCONTROL=ignoredups:erasedups
 export HISTSIZE=10000
 export HISTFILESIZE=20000
 
-# =====================================
 # 2. COMMAND REFERENCE / USAGE GUIDE
-# =====================================
-# 
+---
 # COMPILING:
 # - compile <file.c> : Compiles with Wall, Wextra, Werror flags.
 # - crun             : Compiles main.c and runs ./a.out if no errors.
