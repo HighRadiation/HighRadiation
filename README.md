@@ -6,12 +6,12 @@
 
 ### ╰─$ Whoami
 - **Industrial Design** student.
-- Developing mobile applications with **Flutter & Dart**. (Currently)
+- Developing mobile applications with **Flutter & Dart**.(Currently)
 
 ### ╰─$ Tech Stack
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,c,cpp,py,github,vscode,ps,figma&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=flutter,dart,c,cpp,py,github,vscode,figma&theme=dark" />
   </a>
 </p>
 
