@@ -6,7 +6,7 @@
 
 ### ╰─$ Whoami
 - **Industrial Design** student.
-- Developing mobile applications with **Flutter & Dart**.
+- Developing mobile applications with **Flutter & Dart**. (Currently)
 
 ### ╰─$ Tech Stack
 <p align="left">
