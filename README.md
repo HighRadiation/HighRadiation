@@ -1,12 +1,12 @@
 #  HighRadiation 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=200&section=header&text=Merhaba,%20Ben%20Buğra!&fontSize=70&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=200&section=header&text=Hi,%20I'm%20Bugra!&fontSize=70&animation=fadeIn" />
 </p>
 
 ### ╰─$ Whoami
-- **Endüstriyel Tasarım** öğrencisiyim.
-- **Flutter & Dart** ile mobil uygulamalar geliştiriyorum.
+- **Industrial Design** student.
+- Developing mobile applications with **Flutter & Dart**.
 
 ### ╰─$ Tech Stack
 <p align="left">
@@ -23,7 +23,6 @@
 
 ### ╰─$ Connectivity
 <p align="left">
-  <a href="https://steamcommunity.com/id/Xru1zen" target="blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" /></a>
-  <a href="https://kick.com" target="blank"><img src="https://img.shields.io/badge/Kick-05FF00?style=for-the-badge&logo=kick&logoColor=black" /></a>
-</p>
+  <a href="https://steamcommunity.com/id/Xru1zen" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" /></a>
+  <a href="https://kick.com" target="_blank"><img src="https://img.shields.io/badge/Kick-05FF00?style=for-the-badge&logo=kick&logoColor=black" /></a>
 </p>
