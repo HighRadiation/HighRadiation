@@ -26,8 +26,4 @@
   <a href="https://steamcommunity.com/id/Xru1zen" target="blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" /></a>
   <a href="https://kick.com" target="blank"><img src="https://img.shields.io/badge/Kick-05FF00?style=for-the-badge&logo=kick&logoColor=black" /></a>
 </p>
-
----
-<p align="center">
-  <i>"Design is not just what it looks like and feels like. Design is how it works."</i>
 </p>
