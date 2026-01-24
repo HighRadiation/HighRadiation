@@ -1,19 +1,33 @@
-## My Bash File
-### Compiler & Execution
-- `compile <file.c>` : Compiles with -Wall -Wextra -Werror.
-- `crun`             : Compiles main.c and runs ./a.out immediately.
+#  HighRadiation 
 
-### File & Directory Management
-- `mkcd <dir>`       : Creates a directory and enters it.
-- `extract <file>`   : Extracts any archive (zip, tar, rar, etc.).
-- `cls`              : Clears the terminal screen.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=200&section=header&text=Merhaba,%20Ben%20Buğra!&fontSize=70&animation=fadeIn" />
+</p>
 
-### Listing & Navigation
-- `ls`               : Colorized file listing.
-- `ll`               : Detailed list (permissions, size).
-- `la`               : List all files including hidden.
-- `l`                : Compact column listing.
+### ╰─$ Whoami
+- **Endüstriyel Tasarım** öğrencisiyim.
+- **Flutter & Dart** ile mobil uygulamalar geliştiriyorum.
 
-### Git & Status
-- `git_branch`       : Shows current branch and (*) if modified.
-- `source ~/.bashrc` : Reloads configuration.
+### ╰─$ Tech Stack
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=flutter,dart,c,cpp,py,github,vscode,ps,figma&theme=dark" />
+  </a>
+</p>
+
+### ╰─$ GitHub Stats
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HighRadiation&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HighRadiation&layout=compact&theme=tokyonight&langs_count=6"/>
+</p>
+
+### ╰─$ Connectivity
+<p align="left">
+  <a href="https://steamcommunity.com/id/Xru1zen" target="blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" /></a>
+  <a href="https://kick.com" target="blank"><img src="https://img.shields.io/badge/Kick-05FF00?style=for-the-badge&logo=kick&logoColor=black" /></a>
+</p>
+
+---
+<p align="center">
+  <i>"Design is not just what it looks like and feels like. Design is how it works."</i>
+</p>
