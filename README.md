@@ -25,4 +25,5 @@
 <p align="left">
   <a href="https://steamcommunity.com/id/Xru1zen" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" /></a>
   <a href="https://kick.com/xru1zen" target="_blank"><img src="https://img.shields.io/badge/Kick-05FF00?style=for-the-badge&logo=kick&logoColor=black" /></a>
+  <a href="https://www.youtube.com/@Xru1zen" target="_blank"><img src="https://img.shields.io/badge/Kick-05FF00?style=for-the-badge&logo=kick&logoColor=black" /></a>
 </p>
