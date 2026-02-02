@@ -1,12 +1,12 @@
 #  HighRadiation 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=200&section=header&text=Hi,%20I'm%20Bugra!&fontSize=70&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=200&section=header&text=Hi,%20I'm%20Buğra!&fontSize=70&animation=fadeIn" />
 </p>
 
 ### ╰─$ Whoami
-- **Industrial Design** student.
-- Developing mobile applications with **Flutter & Dart**.(Currently)
+- 🎓 **Industrial Design** student.
+- 📱 Developing mobile applications with **Flutter & Dart**. (Currently)
 
 ### ╰─$ Tech Stack
 <p align="left">
@@ -17,8 +17,8 @@
 
 ### ╰─$ GitHub Stats
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HighRadiation&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HighRadiation&layout=compact&theme=tokyonight&langs_count=6"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=HighRadiation&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HighRadiation&layout=compact&theme=tokyonight&langs_count=6"/>
 </p>
 
 ### ╰─$ Connectivity
