@@ -15,12 +15,6 @@
   </a>
 </p>
 
-### ╰─$ GitHub Stats
-<p align="left">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=HighRadiation&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HighRadiation&layout=compact&theme=tokyonight&langs_count=6"/>
-</p>
-
 ### ╰─$ Connectivity
 <p align="left">
   <a href="https://steamcommunity.com/id/Xru1zen" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" /></a>
