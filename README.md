@@ -5,8 +5,7 @@
 </p>
 
 ### ╰─$ Whoami
-- 🎓 **Industrial Design** student.
-- 📱 Developing mobile applications with **Flutter & Dart**. (Currently)
+- Just a man who loves to coding.
 
 ### ╰─$ Tech Stack
 <p align="left">
