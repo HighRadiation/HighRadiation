@@ -2,7 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=200&section=header&text=Hi,%20I'm%20Buğra!&fontSize=70&animation=fadeIn&fontAlignY=38" />
   
   <h3>Mobile Application Developer | Flutter & Dart</h3>
-  <p>Passionate about creating elegant mobile solutions and building innovative software</p>
 </div>
 
 <br />
