@@ -15,16 +15,6 @@
 
 <br />
 
-## GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HighRadiation&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HighRadiation&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HighRadiation&theme=tokyonight&hide_border=true&background=0D1117)
-
-<br />
-
 ## What I Do
 
 - Building cross-platform mobile applications with Flutter
@@ -50,7 +40,9 @@
 
 <br />
 
-![Profile Views](https://komarev.com/ghpvc/?username=HighRadiation&color=00b4d8&style=flat-square&label=Profile+Views)
+<p>
+  <img src="https://komarev.com/ghpvc/?username=HighRadiation&color=00b4d8&style=flat-square&label=Profile+Views" alt="Profile views" />
+</p>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=100&section=footer" />
