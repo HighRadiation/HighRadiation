@@ -12,18 +12,7 @@
 <p>
   <img src="https://skillicons.dev/icons?i=flutter,dart,c,cpp,linux,git,github,figma&theme=dark" />
 </p>
-
-<br />
-
-## What I Do
-
-- Building cross-platform mobile applications with Flutter
-- Developing efficient and scalable software solutions
-- Creating intuitive user interfaces with attention to detail
-- Working with C/C++ for performance-critical applications
-
-<br />
-
+---
 ## Connect With Me
 
 <p>
