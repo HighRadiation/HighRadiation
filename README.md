@@ -9,22 +9,18 @@
 
 ## Tech Stack & Tools
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,c,cpp,linux,git,github,figma&theme=dark" />
-</div>
+<img src="https://skillicons.dev/icons?i=flutter,dart,c,cpp,linux,git,github,figma&theme=dark" />
 
 <br />
 
 ## GitHub Statistics
 
-<div align="center">
-  <a href="https://github.com/HighRadiation">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=HighRadiation&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true" />
-  </a>
-  <a href="https://github.com/HighRadiation">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HighRadiation&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" />
-  </a>
-</div>
+<a href="https://github.com/HighRadiation">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=HighRadiation&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true" />
+</a>
+<a href="https://github.com/HighRadiation">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HighRadiation&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" />
+</a>
 
 <br />
 
@@ -39,23 +35,19 @@
 
 ## Connect With Me
 
-<div align="center">
-  <a href="https://steamcommunity.com/id/Xru1zen" target="_blank">
-    <img src="https://img.shields.io/badge/Steam-171a21?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" />
-  </a>
-  <a href="https://kick.com/xru1zen" target="_blank">
-    <img src="https://img.shields.io/badge/Kick-53fc18?style=for-the-badge&logo=kick&logoColor=black" alt="Kick" />
-  </a>
-  <a href="https://www.youtube.com/@Xru1zen" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-  </a>
-</div>
+<a href="https://steamcommunity.com/id/Xru1zen" target="_blank">
+  <img src="https://img.shields.io/badge/Steam-171a21?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" />
+</a>
+<a href="https://kick.com/xru1zen" target="_blank">
+  <img src="https://img.shields.io/badge/Kick-53fc18?style=for-the-badge&logo=kick&logoColor=black" alt="Kick" />
+</a>
+<a href="https://www.youtube.com/@Xru1zen" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+</a>
 
 <br />
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=HighRadiation&color=00b4d8&style=flat-square&label=Profile+Views" alt="Profile views" />
-</div>
+<img src="https://komarev.com/ghpvc/?username=HighRadiation&color=00b4d8&style=flat-square&label=Profile+Views" alt="Profile views" />
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=100&section=footer" />
