@@ -1,23 +1,33 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=200&section=header&text=Hi,%20I'm%20Buğra!&fontSize=70&animation=fadeIn&fontAlignY=38" />
-</div>
-### ╰─$ Tech Stack
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,c,cpp,py,cs,unity,linux,github,vscode,figma&theme=dark" />
-</div>
-
-### ╰─$ GitHub Stats
-<div align="left">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="150" src="https://github-readme-stats.vercel.app/api?username=Xru1zen&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xru1zen&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  </a>
+  
+  <h3>Mobile Application Developer | Flutter & Dart</h3>
+  <p>Mobil uygulamalar ve yazılım geliştirme üzerine çalışıyorum.</p>
 </div>
 
-### ╰─$ Connectivity
-<p align="left">
+<br />
+
+### Tech Stack & Tools
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,flutter,dart,linux,github,figma&theme=dark" />
+</div>
+
+<br />
+
+### GitHub Stats
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="160" src="https://github-readme-stats.vercel.app/api?username=Xru1zen&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xru1zen&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  </a>
+</div>
+
+<br />
+
+### Connect
+<div align="center">
   <a href="https://steamcommunity.com/id/Xru1zen" target="_blank">
     <img src="https://img.shields.io/badge/Steam-171a21?style=for-the-badge&logo=steam&logoColor=white" />
   </a>
@@ -30,7 +40,7 @@
   <a href="https://discord.com/users/SENIN_DISCORD_ID" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
-</p>
+</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=100&section=footer" />
