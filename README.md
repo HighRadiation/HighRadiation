@@ -17,23 +17,11 @@
 
 ## GitHub Statistics
 
-<p>
-  <a href="https://github.com/HighRadiation">
-    <img src="https://github-readme-stats.vercel.app/api?username=HighRadiation&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  </a>
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HighRadiation&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true)
 
-<p>
-  <a href="https://github.com/HighRadiation">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HighRadiation&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" alt="Top Languages" />
-  </a>
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HighRadiation&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8)
 
-<p>
-  <a href="https://github.com/HighRadiation">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=HighRadiation&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-  </a>
-</p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HighRadiation&theme=tokyonight&hide_border=true&background=0D1117)
 
 <br />
 
@@ -62,9 +50,7 @@
 
 <br />
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=HighRadiation&color=00b4d8&style=flat-square&label=Profile+Views" alt="Profile views" />
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=HighRadiation&color=00b4d8&style=flat-square&label=Profile+Views)
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=100&section=footer" />
