@@ -6,10 +6,7 @@
 </div>
 
 ### ╰─$ Whoami
-- 🎓 **Industrial Design Student** with a passion for software.
 - 💻 Developing mobile apps with **Flutter** & exploring **Game Dev**.
-- 🎮 Competitive **CS2** Player & Streamer (`Xru1zen`).
-- 🐧 Linux Enthusiast & C Coder (Minitalk survivor).
 
 ### ╰─$ Tech Stack
 <div align="left">
