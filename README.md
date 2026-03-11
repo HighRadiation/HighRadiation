@@ -28,10 +28,6 @@
 
 <br />
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=HighRadiation&color=00b4d8&style=flat-square&label=Profile+Views" alt="Profile views" />
-</p>
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=100&section=footer" />
 </div>
