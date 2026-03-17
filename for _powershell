@@ -1,12 +1,5 @@
-# ============================================================
-#  PowerShell Profile
-#  Kaydet: notepad $PROFILE  |  Yenile: . $PROFILE
-# ============================================================
-
-# ANSI renk destegini etkinlestir (Windows 10+)
 if ($PSVersionTable.PSVersion.Major -le 5) {
     $null = [System.Console]::OutputEncoding = [System.Text.Encoding]::UTF8
-    # VirtualTerminal modunu ac
     $kernel32 = Add-Type -MemberDefinition @"
 [DllImport("kernel32.dll", SetLastError=true)]
 public static extern bool SetConsoleMode(IntPtr hConsoleHandle, int mode);
@@ -21,13 +14,9 @@ public static extern bool GetConsoleMode(IntPtr hConsoleHandle, out int mode);
     [Win32.Kernel32]::SetConsoleMode($handle, $mode -bor 4) | Out-Null
 }
 
-# Baslangic dizinini Desktop yap
 $desktopPath = [Environment]::GetFolderPath("Desktop")
 if (Test-Path $desktopPath) { Set-Location $desktopPath }
 
-# -----------------------------------------
-#  1. PROMPT
-# -----------------------------------------
 function Get-GitBranch {
     $branch = git rev-parse --abbrev-ref HEAD 2>$null
     if (-not $branch) { return "" }
@@ -39,39 +28,23 @@ function Get-GitBranch {
 function prompt {
     $exitCode = $LASTEXITCODE
     $ESC = [char]27
-
-    $arrowColor = if ($exitCode -and $exitCode -ne 0) {
-        "${ESC}[38;5;196m"
-    } else {
-        "${ESC}[38;5;75m"
-    }
-
+    $arrowColor = if ($exitCode -and $exitCode -ne 0) { "${ESC}[38;5;196m" } else { "${ESC}[38;5;75m" }
     $reset = "${ESC}[0m"
     $user  = "${ESC}[38;5;81m$env:USERNAME${reset}"
     $dir   = "${ESC}[38;5;180m$(Split-Path -Leaf $PWD)${reset}"
     $git   = "${ESC}[38;5;109m$(Get-GitBranch)${reset}"
-    $curvy = [char]0x2570 + [char]0x2500   # ╰─
+    $curvy = [char]0x2570 + [char]0x2500
     $arrow = "${ESC}[38;5;245m${curvy}${arrowColor}`$${reset}"
-
     "$user $dir$git`n$arrow "
 }
 
-# -----------------------------------------
-#  2. ALIASES
-# -----------------------------------------
-# cls zaten var, atla
 Set-Alias ll    Get-ChildItem -Option AllScope -Force
 Set-Alias which Get-Command
-
-function la  { Get-ChildItem -Force @args }
-function l   { Get-ChildItem | Format-Wide -AutoSize }
-
+function la      { Get-ChildItem -Force @args }
+function l       { Get-ChildItem | Format-Wide -AutoSize }
 function compile { gcc -Wall -Wextra -Werror @args }
 function crun    { compile main.c; if ($LASTEXITCODE -eq 0) { .\a.out } }
 
-# -----------------------------------------
-#  3. FONKSIYONLAR
-# -----------------------------------------
 function mkcd {
     param([string]$path)
     New-Item -ItemType Directory -Force -Path $path | Out-Null
@@ -94,9 +67,6 @@ function extract {
     }
 }
 
-# -----------------------------------------
-#  4. PSReadLine
-# -----------------------------------------
 if (Get-Module -ListAvailable -Name PSReadLine) {
     $psrlVersion = (Get-Module -ListAvailable PSReadLine | Sort-Object Version -Descending | Select-Object -First 1).Version
     Set-PSReadLineOption -EditMode Windows
@@ -108,9 +78,6 @@ if (Get-Module -ListAvailable -Name PSReadLine) {
     }
 }
 
-# -----------------------------------------
-#  5. Terminal Icons
-# -----------------------------------------
 if (Get-Module -ListAvailable -Name Terminal-Icons) {
     Import-Module Terminal-Icons
 }
