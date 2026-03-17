@@ -7,25 +7,23 @@
 <div align="center">
 
 ```
-⠀⠀⠀⠀⠀⠀The path of a developer is never simple.
-⠀⠀⠀⠀⠀⠀    You just do what must be done.
+  The path of a developer is never simple.
+      You just do what must be done.
 ```
 
 </div>
 
 ---
 
-<img align="right" width="300" src="https://i.imgur.com/placeholder.png" alt="" />
-
 ### `> whoami`
 
 ```yaml
-name      : HighRadiation
+name      : Buğra
+alias     : Xru1zen
 role      : Mobile Application Developer
 stack     : Flutter & Dart
+status    : Always learning, always building
 ```
-
-<br clear="right"/>
 
 ---
 
@@ -50,11 +48,11 @@ stack     : Flutter & Dart
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Xru1zen&show_icons=true&theme=dark&bg_color=0d1117&title_color=c9a84c&icon_color=c9a84c&text_color=8b9bb4&border_color=30363d&hide_border=false)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HighRadiation&show_icons=true&theme=dark&bg_color=0d1117&title_color=c9a84c&icon_color=c9a84c&text_color=8b9bb4&border_color=30363d)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xru1zen&layout=compact&theme=dark&bg_color=0d1117&title_color=c9a84c&text_color=8b9bb4&border_color=30363d)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HighRadiation&layout=compact&theme=dark&bg_color=0d1117&title_color=c9a84c&text_color=8b9bb4&border_color=30363d)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Xru1zen&theme=dark&background=0D1117&border=30363D&ring=c9a84c&fire=c9a84c&currStreakLabel=c9a84c&sideLabels=8b9bb4&dates=8b9bb4)
+![GitHub Streak](https://streak-stats.demolab.com?user=HighRadiation&theme=dark&background=0D1117&border=30363D&ring=c9a84c&fire=c9a84c&currStreakLabel=c9a84c&sideLabels=8b9bb4&dates=8b9bb4)
 
 </div>
 
@@ -79,7 +77,7 @@ stack     : Flutter & Dart
 *If I'm to choose between one evil and another,*
 *I'd rather not choose at all."*
 
-— **Geralt of Rivia**
+**— Geralt of Rivia**
 
 </div>
 
