@@ -1,13 +1,3 @@
-<div align="center">
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=280&section=header&text=Buğra&fontSize=90&fontColor=c9a84c&animation=fadeIn&fontAlignY=40&desc=Mobile%20Developer%20%7C%20Flutter%20%26%20Dart&descColor=8b9bb4&descSize=22&descAlignY=62)
-
-</div>
-
-<div align="center">
-
-
-
 </div>
 
 ---
@@ -73,11 +63,5 @@ stack     : Flutter & Dart
 *I'd rather not choose at all."*
 
 **— Geralt of Rivia**
-
-</div>
-
-<div align="center">
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer)
 
 </div>
