@@ -18,11 +18,9 @@
 ### `> whoami`
 
 ```yaml
-name      : Buğra
-alias     : Xru1zen
+name      : HighRadiation
 role      : Mobile Application Developer
 stack     : Flutter & Dart
-status    : Always learning, always building
 ```
 
 ---
