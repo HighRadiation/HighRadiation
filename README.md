@@ -6,10 +6,7 @@
 
 <div align="center">
 
-```
-  The path of a developer is never simple.
-      You just do what must be done.
-```
+
 
 </div>
 
