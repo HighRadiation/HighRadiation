@@ -5,7 +5,7 @@
 ```yaml
 name      : HighRadiation
 role      : Mobile Application Developer
-stack     : Flutter & Dart
+stack     : Flutter & Dart (Status)
 ```
 
 ---
