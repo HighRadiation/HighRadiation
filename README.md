@@ -54,12 +54,4 @@ stack     : Flutter & Dart (Status)
 ---
 
 <div align="center">
-
-*"Evil is evil. Lesser, greater, middling… makes no difference.*
-*The degree is arbitrary, the definition blurred.*
-*If I'm to choose between one evil and another,*
-*I'd rather not choose at all."*
-
-**— Geralt of Rivia**
-
 </div>
