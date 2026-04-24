@@ -1,6 +1,4 @@
 </div>
----
-
 ### `> tech_stack --list`
 
 <div align="center">
