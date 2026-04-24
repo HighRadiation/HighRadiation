@@ -30,7 +30,5 @@
 <div align="center">
 
 [![Steam](https://img.shields.io/badge/Steam-c9a84c?style=for-the-badge&logo=steam&logoColor=0d1117)](https://steamcommunity.com/id/Xru1zen)
-[![Kick](https://img.shields.io/badge/Kick-c9a84c?style=for-the-badge&logo=kick&logoColor=0d1117)](https://kick.com/xru1zen)
-[![YouTube](https://img.shields.io/badge/YouTube-c9a84c?style=for-the-badge&logo=youtube&logoColor=0d1117)](https://www.youtube.com/@Xru1zen)
 
 </div>
