@@ -1,22 +1,17 @@
-</div>
-
-### `> tech_stack --list`
+### Tech Stack
 
 <div align="center">
 
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-c9a84c?style=for-the-badge&logo=flutter&logoColor=0d1117)
+![Dart](https://img.shields.io/badge/Dart-c9a84c?style=for-the-badge&logo=dart&logoColor=0d1117)
+![Git](https://img.shields.io/badge/Git-c9a84c?style=for-the-badge&logo=git&logoColor=0d1117)
+![Linux](https://img.shields.io/badge/Linux-c9a84c?style=for-the-badge&logo=linux&logoColor=0d1117)
 
 </div>
 
 ---
 
-### `> stats --global`
+### Stats
 
 <div align="center">
 
@@ -30,17 +25,12 @@
 
 ---
 
-### `> connect --social`
+### Connect
 
 <div align="center">
 
-[![Steam](https://img.shields.io/badge/Steam-Xru1zen-171a21?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/Xru1zen)
-[![Kick](https://img.shields.io/badge/Kick-Xru1zen-53fc18?style=for-the-badge&logo=kick&logoColor=black)](https://kick.com/xru1zen)
-[![YouTube](https://img.shields.io/badge/YouTube-Xru1zen-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Xru1zen)
+[![Steam](https://img.shields.io/badge/Steam-c9a84c?style=for-the-badge&logo=steam&logoColor=0d1117)](https://steamcommunity.com/id/Xru1zen)
+[![Kick](https://img.shields.io/badge/Kick-c9a84c?style=for-the-badge&logo=kick&logoColor=0d1117)](https://kick.com/xru1zen)
+[![YouTube](https://img.shields.io/badge/YouTube-c9a84c?style=for-the-badge&logo=youtube&logoColor=0d1117)](https://www.youtube.com/@Xru1zen)
 
-</div>
-
----
-
-<div align="center">
 </div>
