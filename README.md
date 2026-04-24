@@ -4,6 +4,7 @@
 
 ![Flutter](https://img.shields.io/badge/Flutter-c9a84c?style=for-the-badge&logo=flutter&logoColor=0d1117)
 ![Dart](https://img.shields.io/badge/Dart-c9a84c?style=for-the-badge&logo=dart&logoColor=0d1117)
+![C](https://img.shields.io/badge/C-c9a84c?style=for-the-badge&logo=c&logoColor=0d1117)
 ![Git](https://img.shields.io/badge/Git-c9a84c?style=for-the-badge&logo=git&logoColor=0d1117)
 ![Linux](https://img.shields.io/badge/Linux-c9a84c?style=for-the-badge&logo=linux&logoColor=0d1117)
 
