@@ -1,13 +1,4 @@
 </div>
-
-### `> whoami`
-
-```yaml
-name      : HighRadiation
-role      : Mobile Application Developer
-stack     : Flutter & Dart (Status)
-```
-
 ---
 
 ### `> tech_stack --list`
