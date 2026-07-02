@@ -10,8 +10,8 @@ last_dir() {
 git_branch() {
   local branch=$(git rev-parse --abbrev-ref HEAD 2>/dev/null)
   if [ -n "$branch" ]; then
-    local status=$(git status --porcelain 2>/dev/null)
-    if [ -n "$status" ]; then
+    local git_status=$(git status --porcelain 2>/dev/null)
+    if [ -n "$git_status" ]; then
       echo " ($branch*)"
     else
       echo " ($branch)"
