@@ -16,4 +16,3 @@
 
 - [Kişisel Site](https://bugraoksuz.me)
 - [EP Prima GmbH](https://ep-prima.vercel.app/) — Corporate website for a German screed & plastering contractor
-- [Proje X](https://example.com)
