@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
-## Projelerim
+## Projects I have worked on
 
 - [Kişisel Site](https://bugraoksuz.me) — Personel website & Portfolio
 - [EP Prima GmbH](https://ep-prima.vercel.app/) — Corporate website for a German screed & plastering contractor
