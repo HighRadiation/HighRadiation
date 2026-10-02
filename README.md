@@ -10,3 +10,4 @@
 ## Projects
 
 - [Azuranous](https://azuranous-app.vercel.app/)
+- [Azuranone](https://azuraone.com/)
