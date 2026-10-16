@@ -11,4 +11,3 @@
 
 - [Azuranous](https://azuranous-app.vercel.app/)
 - [Azuranone](https://azuraone.com/)
-- [Sprout](https://sprout-peach-eta.vercel.app/) - Beta
