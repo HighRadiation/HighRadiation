@@ -1,0 +1,12 @@
+{
+  "skills": [
+    { "name": "Next.js", "color": "#000000", "colorDark": "#ffffff" },
+    { "name": "Docker", "color": "#2496ED" },
+    { "name": "Git", "color": "#F05032" },
+    { "name": "Linux", "color": "#FCC624" }
+  ],
+  "projects": [
+    { "name": "Azuranous", "url": "https://azuranous-app.vercel.app/" },
+    { "name": "Azuranone", "url": "https://azuraone.com/" }
+  ]
+}
