@@ -1,5 +1,3 @@
-
-
 <p align="left">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
@@ -7,7 +5,10 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
-![image1](image1)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/progress-dark.svg">
+  <img alt="Commit progress" src="assets/progress-light.svg">
+</picture>
 
 ## Projects
 
