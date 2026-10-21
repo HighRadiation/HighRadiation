@@ -121,7 +121,7 @@ function chip(x, y, w, text, kind, swatch, c) {
 
 // ---------------------------------------------------------------- progress chart
 
-function renderProgress(theme, series, scale) {
+function renderProgress(theme, series, scale, cap, capped) {
   const c = THEMES[theme];
   const total = series.reduce((s, d) => s + d.count, 0);
   const plotX = 72;
@@ -153,7 +153,7 @@ function renderProgress(theme, series, scale) {
   }
 
   const body = `<text x="32" y="44" class="t" font-size="24" font-weight="600">Progress</text>
-<text x="32" y="68" class="m" font-size="13">${total} commits · last ${DAYS} days · @${esc(user)}</text>
+<text x="32" y="68" class="m" font-size="13">${total} commits · last ${DAYS} days · @${esc(user)}${capped ? ` · ${capped} busier day${capped > 1 ? 's' : ''} capped at ${cap}` : ''}</text>
 ${yAxis}
 ${dots}
 ${xAxis}`;
@@ -238,7 +238,13 @@ const counts = {};
 for (const perDay of Object.values(byRepo)) for (const [d, n] of Object.entries(perDay)) counts[d] = (counts[d] || 0) + n;
 const series = days.map((date) => ({ date, count: counts[dayKey(date)] || 0 }));
 const max = Math.max(...series.map((d) => d.count));
-const scale = Math.max(1, Math.ceil(max / (ROWS - 1)));
+// Scale to typical days, not the single busiest one: a lone spike would otherwise shrink every
+// other day to a dot or two. Days above the cap are drawn full height and flagged in the subtitle.
+const nonZero = series.map((d) => d.count).filter((n) => n > 0).sort((a, b) => a - b);
+const median = nonZero.length ? nonZero[Math.floor(nonZero.length / 2)] : 0;
+const scale = Math.max(1, Math.ceil(Math.min(max, Math.max(ROWS - 1, 3 * median)) / (ROWS - 1)));
+const cap = scale * (ROWS - 1);
+const capped = series.filter((d) => d.count > cap).length;
 
 const statKeys = new Set(days.slice(-STAT_DAYS).map(dayKey));
 const statCommits = series.slice(-STAT_DAYS).reduce((s, d) => s + d.count, 0);
@@ -246,7 +252,7 @@ const statRepos = Object.values(byRepo).filter((perDay) => Object.entries(perDay
 
 const files = {};
 for (const theme of Object.keys(THEMES)) {
-  files[`progress-${theme}.svg`] = renderProgress(theme, series, scale);
+  files[`progress-${theme}.svg`] = renderProgress(theme, series, scale, cap, capped);
   files[`stat-commits-${theme}.svg`] = renderStat(theme, { title: 'Total', icon: 'commit', value: statCommits, before: 'Commits in the', bold: `last ${STAT_DAYS} days` });
   files[`stat-repos-${theme}.svg`] = renderStat(theme, { title: 'Impact', icon: 'half', value: statRepos, before: 'Repositories pushed to in the', bold: `last ${STAT_DAYS} days` });
   files[`skills-${theme}.svg`] = renderSkills(theme, config.skills);
