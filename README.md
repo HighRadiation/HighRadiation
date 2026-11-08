@@ -17,8 +17,6 @@
   <img alt="Skills" src="assets/skills-light.svg" width="100%">
 </picture>
 
-## Projects
-
 <!-- PROJECTS:START -->
 <a href="https://azuraone.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-azuranone-dark.svg"><img alt="Azuranone" src="assets/project-azuranone-light.svg" width="49%"></picture></a>
 <!-- PROJECTS:END -->
