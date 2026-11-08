@@ -13,5 +13,6 @@
 </picture>
 
 <!-- PROJECTS:START -->
+<a href="https://azuranous-app.vercel.app/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-azuranous-dark.svg"><img alt="Azuranous" src="assets/project-azuranous-light.svg" width="49%"></picture></a>
 <a href="https://azuraone.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-azuranone-dark.svg"><img alt="Azuranone" src="assets/project-azuranone-light.svg" width="49%"></picture></a>
 <!-- PROJECTS:END -->
