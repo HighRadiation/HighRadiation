@@ -12,11 +12,6 @@
   <img alt="Repositories pushed to in the last 30 days" src="assets/stat-repos-light.svg" width="49%">
 </picture>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/skills-dark.svg">
-  <img alt="Skills" src="assets/skills-light.svg" width="100%">
-</picture>
-
 <!-- PROJECTS:START -->
 <a href="https://azuraone.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-azuranone-dark.svg"><img alt="Azuranone" src="assets/project-azuranone-light.svg" width="49%"></picture></a>
 <!-- PROJECTS:END -->
